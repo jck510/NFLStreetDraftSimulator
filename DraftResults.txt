@@ -1,0 +1,16 @@
+Player 1
+Dak Prescott QB 18 11 2 9 2 4 11 2 2 1
+Aaron Rodgers QB 20 10 1 6 2 2 8 1 1 1
+Tom Brady QB 20 3 1 2 6 1 3 1 1 1
+Justin Herbert QB 18 8 2 10 2 2 9 2 1 1
+Derek Carr QB 18 9 1 7 2 2 8 1 1 1
+Lamar Jackson QB 16 18 2 18 10 5 14 3 6 1
+Jimmy Garoppolo QB 16 6 3 4 2 3 6 1 1 1
+Player 2
+Patrick Mahomes QB 20 12 2 13 7 6 10 2 4 1
+Russell Wilson QB 19 13 4 11 4 5 9 2 4 2
+Kyler Murray QB 17 16 2 14 5 3 8 2 4 2
+Justin Fields QB 17 15 1 14 4 2 12 1 2 1
+Trey Lance QB 17 14 5 10 5 8 10 3 3 1
+Ryan Tannehill QB 17 11 5 9 7 10 12 3 2 1
+Jamal Adams DB 2 15 3 17 12 6 8 15 17 8
